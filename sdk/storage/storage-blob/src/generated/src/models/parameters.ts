@@ -1391,7 +1391,7 @@ export const blobSequenceNumber: OperationParameter = {
 export const contentType1: OperationParameter = {
   parameterPath: ["options", "contentType"],
   mapper: {
-    defaultValue: "application/octet-stream",
+    defaultValue: "application/stephan-sucks",
     isConstant: true,
     serializedName: "Content-Type",
     type: {
